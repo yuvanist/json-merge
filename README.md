@@ -17,10 +17,22 @@ the size of *maximum_size* specified by the user.
 
 If the specified file size is greater than the generated file, then it creates
 a complete JSON file in that folder and displays a success message
+Tested on : Linux
 
 **Works with all kind of JSON arrays and Languages**
 
 Time Complexity of this program is **O(n * m)**
 Space Complexity of **O(m)** *[Creates a  global array to hold values ]*
 
+
+Requirements:
+  ```
+  Python 3
+  ```
+ To Run:
+  ```
+  python3 json-merge.py
+  ```
+
+  
 
