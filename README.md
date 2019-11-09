@@ -1,4 +1,4 @@
-#json-merge
+# json-merge
 
 **json-merge creates a single JSON array by reading JSON arrays
 from different files.**
