@@ -21,9 +21,9 @@ Tested on : Linux
 
 **Works with all kind of JSON arrays and Languages**
 ```
-Time Complexity of this program is **O(n * m)**
+Time Complexity: O(n * m)
 
-Space Complexity of **O(m)** *[Creates a  global array to hold values ]*
+Space Complexity: O(m) [Creates a  global array to hold values ]
 ```
 
 Requirements:
