@@ -5,7 +5,7 @@ from different files.**
 
 ## Functions:
   1. Supports non-english words as well.
-  2. Creates file only upto the maximum size.
+  2. Creates file only upto the maximum size specified by the user.
   3. Merging works for any array name.
 
 This program reads *base file name for input*, *base file name for output*,
