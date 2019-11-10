@@ -26,6 +26,8 @@ a complete JSON file in that folder and displays a success message
 
 Tested on : Linux
 
+## Time and Space analysis
+
 **Works with all kind of JSON arrays and Languages**
 ```
 Time Complexity: O(n * m)
@@ -33,14 +35,31 @@ Time Complexity: O(n * m)
 Space Complexity: O(m) [Creates a  global array to hold values ]
 ```
 
-Requirements:
+
+#### Requirements:
+
   ```
   Python 3
   ```
- To Run:
+#### To Run:
   ```
   python3 json-merge.py
   ```
 
+  ### data1.json
   
+ ![data1](data1.PNG?raw=true "data1.json input file")
+  
+  ### data2.json
+  
+ ![data2](data2.PNG?raw=true "data2.json input file")
+ 
+ ### data3.json
+ 
+ ![data3](data3.PNG?raw=true "data3.json input file")
+ 
+ ### merge1.json
+ 
+ ![merge1](merge1.PNG?raw=true "merge1.json output file")
+ 
 
