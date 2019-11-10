@@ -58,6 +58,10 @@ Space Complexity: O(m) [Creates a  global array to hold values ]
  
  ![data3](data3.PNG?raw=true "data3.json input file")
  
+ ### Terminal
+ 
+ ![terminal](terminal_run.png?raw=true "Terminal Screenshot")
+ 
  ### merge1.json
  
  ![merge1](merge1.PNG?raw=true "merge1.json output file")
