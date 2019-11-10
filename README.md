@@ -3,6 +3,11 @@
 **json-merge creates a single JSON array by reading JSON arrays
 from different files.**
 
+## Functions:
+  1. Supports non-english words as well.
+  2. Creates file only upto the maximum size.
+  3. Merging works for any array name.
+
 This program reads *base file name for input*, *base file name for output*,
 *maximum size of the output file to be created* from the user.
 
