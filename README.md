@@ -43,7 +43,7 @@ Space Complexity: O(m) [Creates a  global array to hold values ]
   ```
 #### To Run:
   ```
-  python3 json-merge.py
+  python3 jsonmerge.py
   ```
 
   ### data1.json
